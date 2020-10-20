@@ -6,16 +6,18 @@
   Happy - Next Level Week #3
 </h2>
 
-[**Sobre**](##About)
-[**Layout**](##Layout)
-[**Tecnologias**](##Tecnologias)
-[**Installation and execution**](##Installation_and_execution)
-[**How to contribute**](##How_to_contribute)
-[**Contact**](##Contact)
-[**License**](##License)
+<p align="center">
+  <a href="#-About">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Installation and execution">Installation and execution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-How to contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-License">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
 
 <p align="center">
-  <img alt="Happy" title="#logo" src=".github/happy.svg" width="100%" />
+  <img alt="Happy" src=".github/happy.png" width="100%">
 </p>
 
 ---
