@@ -6,34 +6,23 @@
   Happy - Next Level Week #3
 </h2>
 
-<h3 align="center">
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Dev-DC-Silva/Happy">
-  
-  <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/Dev-DC-Silva/Happy">
-  
-  <a href="https://github.com/Dev-DC-Silva/Happy/commits/master">
-    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Dev-DC-Silva/Happy">
-  </a>
-  
-  <img alt="GitHub Issues" src="https://img.shields.io/github/issues/Dev-DC-Silva/Happy">
-  
-  <a href="https://github.com/mathrb22/Happy/blob/master/LICENSE">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/Dev-DC-Silva/Happy">
-  </a>
-</h3>
+[**Sobre**](##About)
+[**Layout**](##Layout)
+[**Tecnologias**](##Tecnologias)
+[**Installation and execution**](##Installation_and_execution)
+[**How to contribute**](##How_to_contribute)
+[**Contact**](##Contact)
+[**License**](##License)
 
 <p align="center">
-
-  <a href='#Layout'>Sobre</a> • 
-  <a href='#About'>Funcionalidades</a> • 
-  <a href='#Tecnologias'>Como Executar</a> • 
-  <a href='#InstallationAndExecution'>Layout</a> • 
+  <img alt="Happy" title="#logo" src=".github/happy.svg" width="100%" />
 </p>
 
-<p align="center">
-  <img alt="Happy" src=".github/happy.svg" width="100%">
-</p>
 ---
+
+## 📃 **About**
+
+Happy is an application that was inspired by the children's day, with the aim of connecting people with the nearest orphanages, informing necessary information for visits.
 
 ## 🎨 **Layout**
 
@@ -43,17 +32,12 @@ Acesse o Layout tanto da versão web quanto da mobile pelos cards abaixo
   <a href='https://www.figma.com/file/eiJJl1sn5NHgrOiBroyaS1/Happy-Web-Copy?node-id=0%3A1'>
     <img src="https://img.shields.io/static/v1?label=Happy&message=Web&color=7159c1&style=for-the-badge&logo=figma"/>
   </a>
-  <br>
   <a href='https://www.figma.com/file/O62D1sRtutjBxUTx7B5xaI/Happy-Mobile-(Copy)?node-id=0%3A1'>
     <img src="https://img.shields.io/static/v1?label=Happy&message=Mobile&color=7159c1&style=for-the-badge&logo=figma"/>
   </a>
 </div>
 
 - Criado por [Tiago Lutchenberg](https://www.instagram.com/tiagoluchtenberg/)
-
-## 📃 About
-
-Happy is an application that was inspired by the children's day, with the aim of connecting people with the nearest orphanages, informing necessary information for visits.
 
 ## 🔨 **Tecnologias**
 
@@ -168,10 +152,10 @@ $ git push origin my-feature
 
 After your pull request is merged, you can delete your branch
 
-## 📲 Contact
+## 📲 **Contact**
 
 
-## 📝 License
+## 📝 **License**
 
 This project is under **MIT** license. Check file _**LICENSE**_ for more details.
 
