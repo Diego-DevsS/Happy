@@ -133,7 +133,7 @@ $ yarn start
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork Dev-DC-Silva
+$ gh repo fork Diego-DevsS
 ```
 
 **Follow the steps below**
@@ -164,5 +164,5 @@ This project is under **MIT** license. Check file _**LICENSE**_ for more details
 ---
 
 <h5 align="center">
-  &copy;2020 - <a href="https://github.com/Dev-DC-Silva/">Diego Silva</a>
+  &copy;2020 - <a href="https://github.com/Diego-DevsS/">Diego Silva</a>
 </h5>
