@@ -24,7 +24,7 @@
 
 ## 📃 **About**
 
-happy é um aplicativo que foi inspirado no dia das crianças, com o objetivo de conectar as pessoas aos orfanatos mais próximos, informando as informações necessárias para as visitas. para visitar ver a versão web [**clique aqui**](https://nlw-3-happy-sable.vercel.app/)
+[happy](https://nlw-3-happy-sable.vercel.app/) é um aplicativo que foi inspirado no dia das crianças, com o objetivo de conectar as pessoas aos orfanatos mais próximos, informando as informações necessárias para as visitas. para visitar ver a versão web [**clique aqui**](https://nlw-3-happy-sable.vercel.app/)
 
 ## 🎨 **Layout**
 
