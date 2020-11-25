@@ -30,6 +30,7 @@ happy is an application that was inspired by children's day, with the aim of con
 
 Acesse o Layout tanto da versão web quanto da mobile pelos cards abaixo
 
+Acesse o site a versão web [**here**](https://nlw-3-happy-sable.vercel.app/)
 <div>
   <a href='https://www.figma.com/file/eiJJl1sn5NHgrOiBroyaS1/Happy-Web-Copy?node-id=0%3A1'>
     <img src="https://img.shields.io/static/v1?label=Happy&message=Web&color=7159c1&style=for-the-badge&logo=figma"/>
