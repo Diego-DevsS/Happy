@@ -12,7 +12,7 @@
   <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Installation and execution">Installation and execution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-How to contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-License">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-License">License</a>
 </p>
 
 
@@ -24,7 +24,7 @@
 
 ## 📃 **About**
 
-Happy is an application that was inspired by the children's day, with the aim of connecting people with the nearest orphanages, informing necessary information for visits.
+happy is an application that was inspired by children's day, with the aim of connecting people to the nearest orphanages, informing the necessary information for visits. to visit see the web version click [**here**](https://nlw-3-happy-sable.vercel.app/)
 
 ## 🎨 **Layout**
 
