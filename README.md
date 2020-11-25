@@ -10,9 +10,9 @@
   <a href="#-About">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Installation and execution">Installation and execution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-How to contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-License">License</a>
+  <a href="#-Instalação e execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Como contribuir">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Licensa">Licensa</a>
 </p>
 
 
@@ -24,13 +24,13 @@
 
 ## 📃 **About**
 
-happy is an application that was inspired by children's day, with the aim of connecting people to the nearest orphanages, informing the necessary information for visits. to visit see the web version click [**here**](https://nlw-3-happy-sable.vercel.app/)
+happy é um aplicativo que foi inspirado no dia das crianças, com o objetivo de conectar as pessoas aos orfanatos mais próximos, informando as informações necessárias para as visitas. para visitar ver a versão web [**clique aqui**](https://nlw-3-happy-sable.vercel.app/)
 
 ## 🎨 **Layout**
 
 Acesse o Layout tanto da versão web quanto da mobile pelos cards abaixo
 
-Acesse o site a versão web [**here**](https://nlw-3-happy-sable.vercel.app/)
+Acesse o site da versão web [**aqui**](https://nlw-3-happy-sable.vercel.app/)
 <div>
   <a href='https://www.figma.com/file/eiJJl1sn5NHgrOiBroyaS1/Happy-Web-Copy?node-id=0%3A1'>
     <img src="https://img.shields.io/static/v1?label=Happy&message=Web&color=7159c1&style=for-the-badge&logo=figma"/>
@@ -77,7 +77,7 @@ Acesse o site a versão web [**here**](https://nlw-3-happy-sable.vercel.app/)
 - BeekepperStudio
 
 
-## 🚀 **Installation and execution**
+## 🚀 **Instalação e execução**
 
 Para poder executar o projeto é preciso ter o [NodeJS](https://nodejs.org), [Git](https://git-scm.com) e um editor de código instalado em seu computador, indico o [Visual Studio Code](https://code.visualstudio.com), e como opcional o [Yarn](https://yarnpkg.org) para usar com o NodeJS
 
@@ -126,7 +126,7 @@ $ cd mobile
 $ yarn start
 ```
 
-## 💡 **How to contribute**
+## 💡 **Como contribuir**
 
 **Make a fork of this repository**
 
@@ -155,10 +155,10 @@ $ git push origin my-feature
 
 After your pull request is merged, you can delete your branch
 
-## 📲 **Contact**
+## 📲 **Contato**
 
 
-## 📝 **License**
+## 📝 **Licensa**
 
 This project is under **MIT** license. Check file _**LICENSE**_ for more details.
 
