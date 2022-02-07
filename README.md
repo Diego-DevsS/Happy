@@ -2,15 +2,15 @@
     <img alt="Happy" title="#logo" src=".github/Logo.svg" width="250px" />
 </h1>
 
-<h2 align="center">
-  Happy - Next Level Week #3
-</h2>
+<h3 align="center">
+  Next Level Week #3
+</h3>
 
 <p align="center">
-  <a href="#-About">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-About">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Tecnologias">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Instalação-e-execução">Installation and execution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Licensa">Licensa</a>
 </p>
@@ -24,13 +24,15 @@
 
 ## 📃 **About**
 
-[happy](https://nlw-3-happy-sable.vercel.app/) é um aplicativo que foi inspirado no dia das crianças, com o objetivo de conectar as pessoas aos orfanatos mais próximos, informando as informações necessárias para as visitas. para visitar ver a versão web [**clique aqui**](https://nlw-3-happy-sable.vercel.app/)
+[happy](https://nlw-3-happy-sable.vercel.app/) is an application that was inspired by Children's Day, with the aim of connecting people to the nearest orphanages, providing the necessary information for visits. to visit see the web version [**click here**](https://nlw-3-happy-sable.vercel.app/)
+
 
 ## 🎨 **Layout**
 
-Acesse o Layout tanto da versão web quanto da mobile pelos cards abaixo
+Access the Layout in the web and mobile versions using the cards below
 
-Acesse o site da versão web [**aqui**](https://nlw-3-happy-sable.vercel.app/)
+Go to the website [**here**](https://nlw-3-happy-sable.vercel.app/)
+
 <div>
   <a href='https://www.figma.com/file/eiJJl1sn5NHgrOiBroyaS1/Happy-Web-Copy?node-id=0%3A1'>
     <img src="https://img.shields.io/static/v1?label=Happy&message=Web&color=7159c1&style=for-the-badge&logo=figma"/>
@@ -42,7 +44,7 @@ Acesse o site da versão web [**aqui**](https://nlw-3-happy-sable.vercel.app/)
 
 - Criado por [Tiago Lutchenberg](https://www.instagram.com/tiagoluchtenberg/)
 
-## 🔨 **Tecnologias**
+## 🔨 **Technolody**
 
 **Website** ([React](https://reactjs.org) + [TypeScript](https://typescriptlang.org))
 
@@ -68,7 +70,7 @@ Acesse o site da versão web [**aqui**](https://nlw-3-happy-sable.vercel.app/)
 - [React Navigation](https://reactnavigation.org/)
 - [Axios](https://github.com/axios/axios)
 
-**Utilitários**
+**Utility**
 - Protótipo no Figma
 - Leaflet
 - Visual Studio Code
@@ -77,11 +79,12 @@ Acesse o site da versão web [**aqui**](https://nlw-3-happy-sable.vercel.app/)
 - BeekepperStudio
 
 
-## 🚀 **Instalação e execução**
+## 🚀 **Installation and execution**
 
-Para poder executar o projeto é preciso ter o [NodeJS](https://nodejs.org), [Git](https://git-scm.com) e um editor de código instalado em seu computador, indico o [Visual Studio Code](https://code.visualstudio.com), e como opcional o [Yarn](https://yarnpkg.org) para usar com o NodeJS
 
-## 🎲 **Rodando o Back-end (servidor)**
+For executing the project need a have the [NodeJS](https://nodejs.org), [Git](https://git-scm.com) and a code editor installed on your computer, i recommend [Visual Studio Code](https://code.visualstudio.com), and as optional [Yarn](https://yarnpkg.org) to use with nodejs.
+
+## 🎲 **Running the Back-end (servidor)**
 
 
 ```bash
@@ -100,7 +103,7 @@ $ yarn dev
 # Well done, project is started!
 ```
 
-## 🧭 **Rodando a aplicação web (Frontend)**
+## 🧭 **Running the web aplication (Frontend)**
 
 ```
 # Starting from the project root folder, go to web folder
@@ -114,7 +117,7 @@ $ yarn
 # Start the client
 $ yarn start
 ```
-## :iphone: **Rodando a aplicação no celular (Mobile)**
+## :iphone: **Running the mobile aplication (Mobile)**
 
 ```
 # Starting from the project root folder, go to mobile folder
@@ -126,7 +129,7 @@ $ cd mobile
 $ yarn start
 ```
 
-## 💡 **Como contribuir**
+## 💡 **How construct**
 
 **Make a fork of this repository**
 
